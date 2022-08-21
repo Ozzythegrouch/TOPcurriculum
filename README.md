@@ -1,4 +1,4 @@
-# tOPcurriculum
+# The Odin Project Curriculum
 ## Foundations
 - A hands-on introduction to all of the essential tools you'll need to build real, working websites.
 
