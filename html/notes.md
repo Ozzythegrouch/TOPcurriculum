@@ -32,3 +32,16 @@
     Nested elements are the children in the relationship. The child element is nested in the parent element
 - How to create HTML comments
     <!-- This creates HTML comments -->
+
+## Lists
+
+#### Unordered list
+- order of items does not matter
+- <ul></ul>
+- within the ul you put <li></li> for list
+- list will have bullet points
+#### Ordered list
+- order matters
+- <ol></ol>
+- <li></li> for items
+- list items have numbered order
