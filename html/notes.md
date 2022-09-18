@@ -45,3 +45,31 @@
 - <ol></ol>
 - <li></li> for items
 - list items have numbered order
+
+## Anchor Element
+- <a></a>
+- anchor tag on its own doesn't know where to go
+- creates link
+- <a href="">makes link clickable</a>
+- attribute gives additional information an HTML element
+- attribute is made up of two parts, name and value
+
+### Absolute Links
+- Links to pages on other websites
+- always contains the protocol and domain of destination
+- protocol://domain/path
+
+### Relative Link
+- Links to other pages within our website
+- ./ makes code look for file directory reelative to the current directory
+
+### Images
+- <img>
+- Does not need a closing tag
+- src attribute needed to display image
+- <img src="">
+- ../ to go up in the path 
+
+### Alt attribute
+- alternative text attributeß
+- Describes an image
